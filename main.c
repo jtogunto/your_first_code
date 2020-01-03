@@ -1,9 +1,6 @@
-int main()
+#include <stdio.h>
+
+int main(void)
 {
-  int i;
-  for (i = 0; i < 10; i++)
-  {
-    printf("Holberton\n");
-  }
-  return 0;
+    printf("hello, holberton\n");
 }
